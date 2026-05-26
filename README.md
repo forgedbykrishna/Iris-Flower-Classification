@@ -1,4 +1,4 @@
-#Iris Flower Classification
+# Iris Flower Classification
 
 A Machine Learning project that classifies Iris flowers into three species — **Setosa**, **Versicolor**, and **Virginica** — using flower measurements such as sepal length, sepal width, petal length, and petal width.
 
@@ -10,7 +10,7 @@ This project demonstrates the complete Machine Learning workflow including:
 
 ---
 
-## 📌 Features
+## Features
 
 - Uses the famous Iris Dataset
 - Implements multiple ML algorithms:
@@ -31,7 +31,7 @@ This project demonstrates the complete Machine Learning workflow including:
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```bash
 Iris-Flower-Classification/
@@ -45,7 +45,7 @@ Iris-Flower-Classification/
 
 ---
 
-##Dataset
+## Dataset
 
 The project uses the Iris Flower Dataset, which contains:
 - 150 flower samples
@@ -60,19 +60,19 @@ The project uses the Iris Flower Dataset, which contains:
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
-### ✅ Random Forest Classifier
+### Random Forest Classifier
 - Accuracy: **90%**
 
-### ✅ MLP Classifier
+### MLP Classifier
 - Accuracy: **93.33%**
 
 The MLP Classifier performed slightly better on the test dataset.
 
 ---
 
-## 📷 Output Screenshot
+## Output Screenshot
 
 Add your terminal output screenshot inside the `assets` folder and rename it as `output.png`.
 
@@ -82,7 +82,7 @@ Add your terminal output screenshot inside the `assets` folder and rename it as 
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, you will learn:
 - Basics of Machine Learning classification
@@ -95,7 +95,7 @@ Through this project, you will learn:
 
 
 
-## 👨‍💻 Author
+## Author
 
 **Krishna Rathore**  
 B.Tech AI & Data Science Student  
