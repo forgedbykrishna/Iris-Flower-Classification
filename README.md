@@ -72,16 +72,6 @@ The MLP Classifier performed slightly better on the test dataset.
 
 ---
 
-## Output Screenshot
-
-Add your terminal output screenshot inside the `assets` folder and rename it as `output.png`.
-
-```markdown
-![Output Screenshot](assets/output.png)
-```
-
----
-
 ## Learning Outcomes
 
 Through this project, you will learn:
