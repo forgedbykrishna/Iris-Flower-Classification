@@ -50,9 +50,7 @@ def main():
     if X_train is None:
         return # Exit if data failed to load
     
-    # ---------------------------------------------------------
     # Model 1: Standard Machine Learning (Random Forest)
-    # ---------------------------------------------------------
     print("\n--- Training Random Forest Classifier ---")
     rf_model = RandomForestClassifier(n_estimators=100, random_state=42)
     rf_model.fit(X_train, y_train)
@@ -62,9 +60,7 @@ def main():
     print("Classification Report:")
     print(classification_report(y_test, rf_predictions, target_names=target_names))
 
-    # ---------------------------------------------------------
     # Model 2: Deep Learning (Multi-Layer Perceptron)
-    # ---------------------------------------------------------
     print("\n--- Training MLP Classifier ---")
     # Architecture: 2 hidden layers with 16 nodes each, using ReLU activation
     mlp_model = MLPClassifier(
